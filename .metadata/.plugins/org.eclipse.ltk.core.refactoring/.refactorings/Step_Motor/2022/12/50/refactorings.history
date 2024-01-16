@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Step_Motor/Two_Direction.c&apos; to &apos;Two Direction.c&apos;" description="Rename resource &apos;Two_Direction.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Two_Direction.c" name="Two Direction.c" stamp="1671268479231" updateReferences="true"/>
+</session>

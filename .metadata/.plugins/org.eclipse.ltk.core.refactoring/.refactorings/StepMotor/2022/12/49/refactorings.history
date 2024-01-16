@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Step_Motor/code one direction&apos; to &apos;Code One Direction&apos;" description="Rename resource &apos;code one direction&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="code one direction" name="Code One Direction" stamp="1670264993310" updateReferences="true"/>
+</session>

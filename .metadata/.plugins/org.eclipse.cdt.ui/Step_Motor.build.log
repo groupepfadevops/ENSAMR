@@ -1,0 +1,61 @@
+
+**** Build of configuration Debug for project Step_Motor ****
+
+"C:\\ti\\ccsv5\\utils\\bin\\gmake" -k all 
+'Building file: ../DSP2833x_DefaultIsr.c'
+'Invoking: C2000 Compiler'
+"C:/ti/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="C:/ti/DSP28335/DSP2833x_common/include" --include_path="C:/ti/DSP28335/DSP2833x_headers/include" --preinclude="C:/ti/include" --preinclude="C:/ti/lib" --define="LARGE_MODEL" --define="_DEBUG" -g --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="DSP2833x_DefaultIsr.pp"  "../DSP2833x_DefaultIsr.c"
+Command-line error #1966: cannot open source file "C:/ti/include": Invalid argument
+1 catastrophic error detected in the compilation of "../DSP2833x_DefaultIsr.c".
+Compilation terminated.
+
+>> Compilation failure
+gmake: *** [DSP2833x_DefaultIsr.obj] Error 1
+'Building file: ../DSP2833x_GlobalVariableDefs.c'
+'Invoking: C2000 Compiler'
+"C:/ti/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="C:/ti/DSP28335/DSP2833x_common/include" --include_path="C:/ti/DSP28335/DSP2833x_headers/include" --preinclude="C:/ti/include" --preinclude="C:/ti/lib" --define="LARGE_MODEL" --define="_DEBUG" -g --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="DSP2833x_GlobalVariableDefs.pp"  "../DSP2833x_GlobalVariableDefs.c"
+Command-line error #1966: cannot open source file "C:/ti/include": Invalid argument
+1 catastrophic error detected in the compilation of "../DSP2833x_GlobalVariableDefs.c".
+Compilation terminated.
+
+>> Compilation failure
+gmake: *** [DSP2833x_GlobalVariableDefs.obj] Error 1
+'Building file: ../DSP2833x_PieCtrl.c'
+'Invoking: C2000 Compiler'
+"C:/ti/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="C:/ti/DSP28335/DSP2833x_common/include" --include_path="C:/ti/DSP28335/DSP2833x_headers/include" --preinclude="C:/ti/include" --preinclude="C:/ti/lib" --define="LARGE_MODEL" --define="_DEBUG" -g --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="DSP2833x_PieCtrl.pp"  "../DSP2833x_PieCtrl.c"
+Command-line error #1966: cannot open source file "C:/ti/include": Invalid argument
+1 catastrophic error detected in the compilation of "../DSP2833x_PieCtrl.c".
+Compilation terminated.
+
+>> Compilation failure
+gmake: *** [DSP2833x_PieCtrl.obj] Error 1
+'Building file: ../DSP2833x_PieVect.c'
+'Invoking: C2000 Compiler'
+"C:/ti/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="C:/ti/DSP28335/DSP2833x_common/include" --include_path="C:/ti/DSP28335/DSP2833x_headers/include" --preinclude="C:/ti/include" --preinclude="C:/ti/lib" --define="LARGE_MODEL" --define="_DEBUG" -g --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="DSP2833x_PieVect.pp"  "../DSP2833x_PieVect.c"
+Command-line error #1966: cannot open source file "C:/ti/include": Invalid argument
+1 catastrophic error detected in the compilation of "../DSP2833x_PieVect.c".
+Compilation terminated.
+
+>> Compilation failure
+gmake: *** [DSP2833x_PieVect.obj] Error 1
+'Building file: ../DSP2833x_SysCtrl.c'
+'Invoking: C2000 Compiler'
+"C:/ti/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="C:/ti/DSP28335/DSP2833x_common/include" --include_path="C:/ti/DSP28335/DSP2833x_headers/include" --preinclude="C:/ti/include" --preinclude="C:/ti/lib" --define="LARGE_MODEL" --define="_DEBUG" -g --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="DSP2833x_SysCtrl.pp"  "../DSP2833x_SysCtrl.c"
+Command-line error #1966: cannot open source file "C:/ti/include": Invalid argument
+1 catastrophic error detected in the compilation of "../DSP2833x_SysCtrl.c".
+Compilation terminated.
+
+>> Compilation failure
+gmake: *** [DSP2833x_SysCtrl.obj] Error 1
+'Building file: ../Two_Direction.c'
+'Invoking: C2000 Compiler'
+"C:/ti/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="C:/ti/DSP28335/DSP2833x_common/include" --include_path="C:/ti/DSP28335/DSP2833x_headers/include" --preinclude="C:/ti/include" --preinclude="C:/ti/lib" --define="LARGE_MODEL" --define="_DEBUG" -g --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="Two_Direction.pp"  "../Two_Direction.c"
+Command-line error #1966: cannot open source file "C:/ti/include": Invalid argument
+1 catastrophic error detected in the compilation of "../Two_Direction.c".
+Compilation terminated.
+
+>> Compilation failure
+gmake: *** [Two_Direction.obj] Error 1
+gmake: Target `all' not remade because of errors.
+
+**** Build Finished ****
