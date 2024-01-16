@@ -28,9 +28,9 @@ void main(void)
 
 	while(1)
 	{
-		LED1_OFF;
-		DELAY_US(time);
 		LED1_ON;
+		DELAY_US(time);
+		LED1_OFF;
 		DELAY_US(time);
 
 	}
