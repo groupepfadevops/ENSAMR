@@ -25,7 +25,7 @@
 #include "DSP2833x_Examples.h"   // DSP2833x Examples Include File
 
 
-// Connected to INT13 of CPU (use MINT13 mask):
+// Connected to INT13 of CPU (use MINT13 mask):::
 // Note CPU-Timer1 is reserved for TI use, however XINT13
 // ISR can be used by the user. 
 interrupt void INT13_ISR(void)     // INT13 or CPU-Timer1
