@@ -1,7 +1,7 @@
 #include "DSP28x_Project.h"
 
 #define LED1_ON		GpioDataRegs.GPASET.bit.GPIO3 = 1
-#define LED1_OFF	GpioDataRegs.GPACLEAR.bit.GPIO3 = 1
+#define LED1_OFF	GpioDataRegs.GPACLEAR.bit.GPIO3 = 0
 #define time	1000000
 //GPIO configuration
 void Gpio_Config()
