@@ -76,7 +76,7 @@ volatile struct CSM_REGS CsmRegs;
 
 
 
-//----------------------------------------
+//----------------------------------------tests
 #ifdef __cplusplus
 #pragma DATA_SECTION("DevEmuRegsFile")
 #else
